@@ -11,7 +11,7 @@ function OHIFLogo() {
     className="header-brand"
     href="https://www.mibluemedical.com/gt/"*/
     >
-      <img src="assets/BlueLogo.png" width="300" height="120" />
+      <img src="/assets/BlueLogo.png" height="50" />
     </a>
   );
 }

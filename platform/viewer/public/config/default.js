@@ -7,9 +7,9 @@ window.config = {
     dicomWeb: [
       {
         name: 'DCM4CHEE',
-        wadoUriRoot: 'https://3.230.201.129:8443/wado',
-        qidoRoot: 'https://3.230.201.129:8443/dcm4chee-arc/aets/AS_RECEIVED/rs',
-        wadoRoot: 'https://3.230.201.129:8443/dcm4chee-arc/aets/AS_RECEIVED/rs',
+        wadoUriRoot: 'https://images.mibluemedical.com/dcm4chee/wado',
+        qidoRoot: 'https://images.mibluemedical.com/dcm4chee/dcm4chee-arc/aets/AS_RECEIVED/rs',
+        wadoRoot: 'https://images.mibluemedical.com/dcm4chee/dcm4chee-arc/aets/AS_RECEIVED/rs',
         qidoSupportsIncludeField: true,
         imageRendering: 'wadors',
         thumbnailRendering: 'wadors',
